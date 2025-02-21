@@ -21,7 +21,7 @@ I'm a BackEnd Developer from Iran. I love to make Web-Sites, Web-Applications an
 Here are some of my best projects:
 
 - [django-social-network](https://github.com/this-is-armin/django-social-network)
-- [django-language-platform](https://github.com/yourusername/project2)
+- [django-language-platform](https://github.com/this-is-armin/django-language-platform)
 - [flask-translator-app](https://github.com/this-is-armin/flask-translator-app.git)
 
 ## 📫 How to Reach Me

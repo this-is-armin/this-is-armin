@@ -14,7 +14,7 @@ I'm a BackEnd Developer from Iran. I love to make Web-Sites, Web-Applications an
 - **Tools:** Git, Vs Code
 
 ## 🌱 Currently Learning
-- Advanced Fundamentals of Python and Django and Web
+- Advanced Fundamentals of Python and Django and, ...
 - English and German
 
 ## 💼 Projects

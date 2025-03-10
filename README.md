@@ -11,11 +11,7 @@ I'm a BackEnd Developer from Iran. I love to make Web-Sites, Web-Applications an
 - **Languages:** Python, Html, Css, Js
 - **Frameworks:** Django
 - **Databases:** MySql, Sqlite
-- **Tools:** Git, Vs Code
-
-## 🌱 Currently Learning
-- Advanced Fundamentals of Python and Django and, ...
-- English and German
+- **Tools:** Git, Vs 
 
 ## 💼 Projects
 Here are some of my best projects:

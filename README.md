@@ -18,6 +18,7 @@ Here are some of my best projects:
 
 - [django-social-network](https://github.com/this-is-armin/django-social-network)
 - [django-language-platform](https://github.com/this-is-armin/django-language-platform)
+- [django-task-management-system](https://github.com/this-is-armin/django-task-management-system)
 - [flask-translator-app](https://github.com/this-is-armin/flask-translator-app.git)
 
 ## 📫 How to Reach Me

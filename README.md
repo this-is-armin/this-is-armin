@@ -8,10 +8,10 @@
 I'm a BackEnd Developer from Iran. I love to make Web-Sites, Web-Applications and BackEnd Systems.
 
 ## 🛠️ Technologies & Tools
-- **Languages:** Python, Html, Css, Js
+- **Languages:** Python, HTML, CSS, JavaScript
 - **Frameworks:** Django
-- **Databases:** MySql, Sqlite
-- **Tools:** Git, Vs Code
+- **Databases:** MySQL, SQLite
+- **Tools:** Git, VS Code
 
 ## 💼 Projects
 Here are some of my best projects:
@@ -21,5 +21,10 @@ Here are some of my best projects:
 - [flask-translator-app](https://github.com/this-is-armin/flask-translator-app.git)
 
 ## 📫 How to Reach Me
-- **Email:** this.is.armin.emami@gmail.com
+- **Email:** [this.is.armin.emami@gmail.com](mailto:this.is.armin.emami@gmail.com)
 
+## 🌐 Socials
+- [Instagram](https://www.instagram.com/this_is_armin)
+- [Telegram](https://t.me/this_is_armin_emami)
+- [LinkedIn](https://www.linkedin.com/in/armin-emami-599106355)
+- [Gmail](mailto:this.is.armin.emami@gmail.com)

@@ -2,8 +2,6 @@
 
 # Hello, I'm Armin Emami👋
 
-# آراد - قویترین + کالاف - پلیر موبایل + هرکسی میخواد بازی کنه با آراد بهم پیام بده سلام حنی فنیشتم میگیرم
-
 <!-- ![Profile Views](https://komarev.com/ghpvc/?username=this-is-armin&color=blue) -->
 
 ## 🚀 About Me

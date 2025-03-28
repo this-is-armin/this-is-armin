@@ -5,7 +5,7 @@
 <!-- ![Profile Views](https://komarev.com/ghpvc/?username=this-is-armin&color=blue) -->
 
 ## 🚀 About Me
-I'm a BackEnd Developer from Iran. I love to make Web-Sites, Web-Applications and BackEnd Systems.
+I am Armin Emami, a BackEnd web developer who has been working with Python and Django framework for serveral years.
 
 ## 🛠️ Technologies & Tools
 - **Languages:** Python, HTML, CSS, JavaScript

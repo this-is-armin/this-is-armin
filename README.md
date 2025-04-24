@@ -25,6 +25,7 @@ Here are some of my best projects:
 - **Email:** [this.is.armin.emami@gmail.com](mailto:this.is.armin.emami@gmail.com)
 
 ## 🌐 Socials
+- [Instagram](https://instagram.com/this.is.armin.emami)
 - [Telegram](https://t.me/this_is_armin_emami)
 - [LinkedIn](https://www.linkedin.com/in/armin-emami-599106355)
 - [Gmail](mailto:this.is.armin.emami@gmail.com)

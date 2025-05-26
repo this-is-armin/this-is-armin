@@ -19,7 +19,7 @@ Here are some of my best projects:
 - [django-social-network](https://github.com/this-is-armin/django-social-network)
 - [django-learning-app](https://github.com/this-is-armin/django-learning-app)
 - [django-language-platform](https://github.com/this-is-armin/django-language-platform)
-- [django-task-management-system](https://github.com/this-is-armin/django-task-management-system)
+- [django-CRUD](https://github.com/this-is-armin/django-CRUD)
 
 ## 📫 How to Reach Me
 - **Email:** [this.is.armin.emami@gmail.com](mailto:this.is.armin.emami@gmail.com)

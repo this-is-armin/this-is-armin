@@ -9,7 +9,7 @@ I am Armin Emami, a BackEnd web developer who has been working with Python and D
 
 ## 🛠️ Technologies & Tools
 - **Languages:** Python, HTML, CSS, JavaScript
-- **Frameworks:** Django
+- **Frameworks:** Django, React
 - **Databases:** MySQL, SQLite
 - **Tools:** Git, VS Code
 

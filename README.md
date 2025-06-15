@@ -21,6 +21,7 @@ Here are some of my best projects:
 - [django-learning-app](https://github.com/this-is-armin/django-learning-app)
 - [django-language-platform](https://github.com/this-is-armin/django-language-platform)
 - [django-CRUD](https://github.com/this-is-armin/django-CRUD)
+- [django-blog](https://github.com/this-is-armin/django-blog.git)
 
 ## 📫 How to Reach Me
 - **Email:** [this.is.armin.emami@gmail.com](mailto:this.is.armin.emami@gmail.com)

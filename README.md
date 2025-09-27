@@ -21,7 +21,7 @@ Here are some of my best projects:
 - [django-react-blog](https://github.com/this-is-armin/django-react-blog)
 - [django-song-platform](https://github.com/this-is-armin/django-song-platform)
 - [django-learning-app](https://github.com/this-is-armin/django-learning-app)
-- [django-CRUD](https://github.com/this-is-armin/django-CRUD)
+- [django-todo](https://github.com/this-is-armin/django-todo)
 - [django-blog](https://github.com/this-is-armin/django-blog)
 
 ## 📫 How to Reach Me

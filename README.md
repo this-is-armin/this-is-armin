@@ -17,6 +17,7 @@ I am Armin Emami, a BackEnd web developer who has been working with Python and D
 Here are some of my best projects:
 
 - [django-social-network](https://github.com/this-is-armin/django-social-network)
+- [social-network-drf](https://github.com/this-is-armin/social-network-drf)
 - [django-book-library](https://github.com/this-is-armin/django-book-library)
 - [django-react-blog](https://github.com/this-is-armin/django-react-blog)
 - [django-song-platform](https://github.com/this-is-armin/django-song-platform)

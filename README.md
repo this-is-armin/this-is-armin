@@ -7,12 +7,6 @@
 ## 🚀 About Me
 I am Armin Emami, a BackEnd web developer who has been working with Python and Django framework for several years.
 
-## 🛠️ Technologies & Tools
-- **Languages:** Python, HTML, CSS, JavaScript, PHP
-- **Frameworks:** Django, React
-- **Databases:** MySQL, SQLite
-- **Tools:** Git, VS Code
-
 ## 💼 Projects
 Here are some of my best projects:
 
